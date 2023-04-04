@@ -96,7 +96,8 @@ const Navbar = () => {
                 </div>
               </li>  */}
               <li>
-                <a href="/sign-in">Регистрация</a>
+                <a href="/sign-in">Регистрация
+                </a>
               </li>
             </ul>
           </div>
